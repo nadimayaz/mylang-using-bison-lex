@@ -9,4 +9,5 @@ Here is an Example.
 ------------------
 
 **v = scan(int);**
+
 **print(v);**
